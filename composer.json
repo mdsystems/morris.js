@@ -1,0 +1,7 @@
+{
+    "name": "mdsystems/morris.js",
+    "description": "A charting library forked from https://github.com/morrisjs/morris.js",
+    "type": "library",
+    "license": "Simplified BSD",
+    "require": {}
+}
